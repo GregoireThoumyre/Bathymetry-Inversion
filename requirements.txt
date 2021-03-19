@@ -27,7 +27,7 @@ networkx==2.2
 numpy==1.16.1
 oset==0.1.3
 packaging==19.0
-Pillow==5.4.1
+Pillow==8.1.1
 pockets==0.7.2
 protobuf==3.6.1
 pybtex==0.22.2
